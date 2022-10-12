@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Hello Auto deploy</title>
+	<title>Welcome Runcloud</title>
 
 	<style type="text/css">
 
@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to Mywebsite!</h1>
+	<h1>Hello WOrld</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
