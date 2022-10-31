@@ -15,4 +15,4 @@ jobs:
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local_dir: "./live/"
-          delete: "false"
+          delete: "true"
